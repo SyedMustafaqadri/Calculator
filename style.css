@@ -1,0 +1,37 @@
+.bgc-body{
+    background-color: #2d333a;
+    color: white;
+}
+
+.row-cols-5 > button{
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 30%;
+    margin: 10px 2px 0 2px;
+    border-style: none;
+    background-color: #b6b6b6;
+}
+
+.row-cols-5 > button:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    background-color: #989898;
+    border: 1px solid #2c2c2c;
+}
+
+.cal-box{
+    border: 2px solid #2c2c2c;
+    border-radius: 25px;
+    padding: 25px 15px;
+    max-width: 300px    ;
+    background-color: #565463;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.inputBox{
+    border-radius: 10px;
+    background-color: #3c4945;
+    color: white;
+}
